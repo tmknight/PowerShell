@@ -1,4 +1,5 @@
-﻿<#
+#Requires -PSEdition Desktop -Version 5
+<#
 .SYNOPSIS
   Export SCCM OS Upgrade logs to the Event Log.
 .DESCRIPTION
@@ -13,6 +14,9 @@
   Specifies the Event Log source for writing logs.
 .PARAMETER EntryType
   Specifies the Event Log entry type for writing logs.
+.NOTE
+  Requires Windows PowerShell 5.x
+  PowerShell Core currently not supported
 #>
 [CmdletBinding()]
 param (

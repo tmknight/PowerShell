@@ -12,8 +12,3 @@ Let me know if you have any issues using them, there's always space for improvem
 
 Feel free to submit pull requests with any issues you may have encountered in
 running my scripts!
-
-## Contact
-
-* [Twitter](https://twitter.com/tseknet)
-* [Website](https://TsekNet.com)
